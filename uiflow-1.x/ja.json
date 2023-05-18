@@ -2760,7 +2760,7 @@
   "ROBOCAR_UPDATE_SENSOR": "Get two-channel line follower sensor %1 pin %2",
   "UNIT_LIMIT": "Limit",
   "UNIT_GPS_GET_ALTITUDE": "get %1 altitude (meter)",
-  "UNIT_LIMIT_GET_SWITCH_STATUS": "%1 Get switch status",
+  "UNIT_LIMIT_GET_SWITCH_STATUS": "%1 のスイッチの状態",
   "UNIT_KEY": "Key",
   "UNIT_KEY_GET_SWITCH_STATUS": "%1 のスイッチの状態",
   "UNIT_KEY_SET_COLOR": "%1 のRGB LEDの色を %2 輝度を %3 に設定",
