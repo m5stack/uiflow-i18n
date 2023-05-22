@@ -955,7 +955,7 @@
   "HAT_ENV_GET_TEMPERATURE": "%1 %2 の温度[℃]",
   "HAT_ENV_GET_HUMIDITY": "%1 %2 の湿度[％]",
   "HAT_SPK": "スピーカー",
-  "HAT_SPEAKER_TONE": "%1 で、周波数 %2 の音を %3 %4 [ms]間鳴らす",
+  "HAT_SPEAKER_TONE": "%1 で、周波数 %2 の音を %3 %4 [ミリ秒]間鳴らす",
   "HAT_SPEAKER_VOL": "%1 の音量を %2 に設定",
   "HAT_SPEAKER_SING": "%1 でトーン %2 で %3 ビート出す",
   "HAT_NCIR_READ": "%1 %2 から温度[℃]を読み込む",
