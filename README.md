@@ -13,4 +13,4 @@ Let's translate the blocks!
 
 ## Contributors
 
-- 
+- Takeshi MUTOH  [GitHub](https://github.com/610t) [Twitter](https://twitter.com/610t)
