@@ -2013,7 +2013,7 @@
   "UNIT_V2_FACE_DETECTOR": "顔検出装置",
   "UNIT_V2_OBJECT_RECOGNITION": "物体認識",
   "UNIT_V2_CODE_DETECTOR": "Code Detector",
-  "V2_FACE_INIT": "%1 検出装置を初期化",
+  "V2_FACE_INIT": "%1 顔検出装置を初期化",
   "V2_FACE_GET_NUMBER": "検出した顔の数",
   "V2_FACE_GET_DETAIL": "%1 番目に検出した顔の詳細",
   "V2_OBJECT_INIT": "%1 物体認識装置を初期化",
