@@ -2208,7 +2208,7 @@
   "UNIT_V2_TARGET_TRACKER": "目標物追跡装置",
   "V2_COLOR_INIT": "%1 色追跡装置を初期化",
   "V2_COLOR_CONFIG_LAB_THRESHOLD": "LAB色空間(L:最小値 %1 最大値 %2 , A:最小値 %3 最大値 %4 , B:最小値 %5 最大値 %6 )で閾値を設定",
-  "V2_COLOR_CONFIG_ROI": "興味のある色の領域(ROI)を左上座標(x: %1 , y:%2 )、領域の大きさ(w(幅): %3, h(高さ):%4 )に設定",
+  "V2_COLOR_CONFIG_ROI": "興味のある領域(ROI)を左上座標(x: %1 , y:%2 )、領域の大きさ(w(幅): %3, h(高さ):%4 )に設定",
   "V2_COLOR_GET_DETAIL": "色追跡結果の詳細",
   "V2_FACE_RE_INIT": "Init %1 Face Recognition",
   "V2_FACE_RE_TRAIN": "Train face id %1 name %2",
