@@ -1776,7 +1776,7 @@
   "UNIT_CAM_SET_UPLOAD_TIME": "Set %1 upload time %2 seconds in cloud mode",
   "UNIT_CAM_GET_TOKEN": "Get %1 cloud token",
   "UNIT_CAM_GET_QRCODEURL": "Get qrcode url token %1",
-  "LCD_QRCODE": "Lcd.qrcode text %1 x %2 y %3 width %4 version %5",
+  "LCD_QRCODE": "テキスト %1 位置(x %2 , y %3 ) 幅 %4 バージョン %5 のQRコードをLCDに表示",
   "COMLTE": "LTE",
   "COMLTE_INIT": "Init LTE TX %1 RX %2",
   "COMLTE_CHECK_STATUS": "Check module status",
