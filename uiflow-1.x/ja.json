@@ -2928,7 +2928,7 @@
   "UNIT_ANGLE8_READ_ADC_12RAW": "%1 チャンネル %3 のA/D変換の12bit値 %2",
   "UNIT_ANGLE8_READ_ADC_8RAW": "%1 チャンネル %3 のA/D変換の8bit値 %2",
   "UNIT_ANGLE8_READ_BUTTON_STATUS": "%1 のスイッチの値",
-  "UNIT_ANGLE8_READ_STATUS": "%1 デバイス %2 %3 の状態",
+  "UNIT_ANGLE8_READ_STATUS": "%1 デバイス %2 の %3",
   "UNIT_ANGLE8_SET_LED_RGB": "%1 チャンネル %3 のLED %2 の色を赤 %4 緑 %5 青 %6 、輝度 %7 に設定",
   "UNIT_ANGLE8_SET_I2C_ADDRESS": "%1 デバイスのI2Cアドレス %2 を %3 に設定",
   "RTC_STATION_SET_CLIENT": "set rtc %1 year %2 month %3 date %4 weekday %5 hour %6 minute %7 second %8",
