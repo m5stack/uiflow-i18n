@@ -221,7 +221,7 @@
   "BUTTONB_PRESSED_HANDLER": "%1 ボタンBが押されたとき %2",
   "BUTTONC_PRESSED_HANDLER": "%1 ボタンCが押されたとき %2",
   "PINS_ANALOG_READ": "%1 %2 ピンからアナログ値を読み取る",
-  "PINS_ANALOG_WRITE": "%1 analog write pin %2 %3 duty %4",
+  "PINS_ANALOG_WRITE": "%1 ピン %2 %3 にデューティー比 %4 でアナログデータを書き込み",
   "PINS_ANALOG_TOGGLE": "%1 %2 ピンを反転する",
   "PINS_DIGITAL_READ": "%1 %2 ピンからデジタルで読み取る",
   "PINS_DIGITAL_WRITE": "%1 %2 %3 ピンに %4 をデジタルで出力する",
