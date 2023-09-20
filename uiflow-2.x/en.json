@@ -430,7 +430,7 @@
     "TEXT_COUNT_TOOLTIP": "Count how many times some text occurs within some other text.",
     "TEXT_REPLACE_MESSAGE0": "replace %1 with %2 in %3",
     "TEXT_REPLACE_HELPURL": "https://github.com/google/blockly/wiki/Text#replacing-substrings",
-    "TEXT_REPLACE_TOOLTIP": "Replace all occurances of some text within some other text.",
+    "TEXT_REPLACE_TOOLTIP": "Replace all occurrences of some text within some other text.",
     "TEXT_REVERSE_MESSAGE0": "reverse %1",
     "TEXT_REVERSE_HELPURL": "https://github.com/google/blockly/wiki/Text#reversing-text",
     "TEXT_REVERSE_TOOLTIP": "Reverses the order of the characters in the text.",
