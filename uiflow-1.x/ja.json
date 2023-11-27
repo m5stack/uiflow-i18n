@@ -3140,7 +3140,7 @@
   "UNIT_NCIR2_SAVE_SETTING": "%1 Save current configure settings",
   "UNIT_NCIR2_SET_I2C_ADDRESS": "%1 Set device I2C %2 address %3",
   "UNIT_FLASHLIGHT": "FlashLight",
-  "UNIT_FLASHLIGHT_CONTROL": "%1 Set flash %2 control %3 turn off %4 delay %5  seconds",
+  "UNIT_FLASHLIGHT_CONTROL": "%1 のフラッシュライト %2 を %3 で制御した後、LEDを消すか %4 、遅延時間 %5 秒",
   "BASE_SPK_PLAY_TONE": "Play tone %1 frequency %2 beat %3 volume %4",
   "CATM_INIT_MODEM": "Power on & Init module",
   "CATM_POWER_SAVE_MODE": "Enable power save mode %1 Periodic-TAU unit : base %2 %3 Periodic-TAU duration %4 %5 Active Time unit : base %6 %7 Active Time duration %8",
