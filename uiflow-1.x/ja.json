@@ -1982,7 +1982,7 @@
   "UNIT_VMETER_DEMO_READ": "Read voltage value",
   "UNIT_AMETER_DEMO_READ": "Read current value",
   "UNIT_OP_DEMO_READ": "Read OP value",
-  "UNIT_HALL_DEMO_READ": "Read HALL value",
+  "UNIT_HALL_DEMO_READ": "HALLの値を読み込む",
   "UNIT_FAN_DEMO_SET": "デュティー比を設定する",
   "UNIT_VIBRATOR_DEMO_SET": "デュティー比を設定する",
   "UNIT_LASERRX_DEMO_RETURN": "Return received data",
@@ -3928,4 +3928,4 @@
   "GUIDE_DEVICE_SETTING_POINT5": "Save program",
   "GUIDE_DEVICE_SETTING_POINT6": "Load m5f file",
   "GUIDE_DEVICE_SETTING_POINT7": "Download program"
-}
+} 
