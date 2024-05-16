@@ -1954,7 +1954,7 @@
   "UNIT_IR_DEMO_READ": "Read IR state",
   "UNIT_EXTIO_DEMO_SET": "Set ext_IO pin mode",
   "UNIT_LIGHT_DEMO_READ": "Read light value",
-  "UNIT_EARTH_DEMO_READ": "Read earth value",
+  "UNIT_EARTH_DEMO_READ": "アースの値を読み込む",
   "UNIT_TOF_DEMO_READ": "測定物との距離[mm]をToFで読み込む",
   "UNIT_COLOR_DEMO_READ": "Read the detected RGB value",
   "UNIT_RFID_DEMO_READ": "カードを検出し、カードIDを読み込む",
