@@ -3849,7 +3849,7 @@
 	"GUIDE_HEADER_POINT3_B4_MSG1": "Undo: ",
 	"GUIDE_HEADER_POINT3_B4_MSG2": "Undo block operation.",
 	"GUIDE_HEADER_POINT3_B5_MSG1": "Redo: ",
-	"GUIDE_HEADER_POINT3_B5_MSG2": "Rndo block operation.",
+	"GUIDE_HEADER_POINT3_B5_MSG2": "Redo block operation.",
 	"GUIDE_HEADER_POINT4_B1_MSG1": "Run history record: ",
 	"GUIDE_HEADER_POINT4_B1_MSG2": "View and load run history record",
 	"GUIDE_HEADER_POINT4_B2_MSG1": "New project: ",
