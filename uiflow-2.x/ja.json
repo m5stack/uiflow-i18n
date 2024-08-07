@@ -1153,7 +1153,7 @@
     "POWER_GET_PORT_VBUS_MSG1": "Vbus in Volt (return float)",
     "POWER_GET_PORT_CURRENT_MSG0": "get port",
     "POWER_GET_PORT_CURRENT_MSG1": "current in mA (return float)",
-    "M5BLE_INIT_MSG0": "Init BLE",
+    "M5BLE_INIT_MSG0": "Init BLE name %1",
     "M5BLE_GET_MTU_MSG0": "BLE get mtu",
     "M5BLE_DEINIT_MSG0": "BLE deinit",
     "M5BLE_CLIENT_GET_SERVICES_MSG0": "BLE client get services (return list)",
