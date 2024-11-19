@@ -926,7 +926,7 @@
     "EXECUTE_CODE_IMPORT_MSG0": "mpyコードを実行(例えばimportなど)",
     "SYSTEM_BOOT_GET_OPTION_MSG0": "起動時オプション(0か1か2)を取得",
     "SYSTEM_BOOT_SET_OPTION_MSG0": "起動時オプションを設定",
-    "SYSTEM_GET_FIRMWARE_VERSION_MSG0": "get firmware version (return string)",
+    "SYSTEM_GET_FIRMWARE_VERSION_MSG0": "ファームウエアのバージョンを取得(return string)",
     "TIME_GET_UTC_TIME_MSG0": "UTCの時間を取得(return tuple)",
     "TIME_GET_LOCAL_TIME_STAMP_MSG0": "1970年1月1日からのローカル時間のタイムスタンプを取得",
     "TIME_GET_LOCAL_TIME_MSG0": "ローカル時間を取得(return tuple)",
