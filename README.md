@@ -1,6 +1,8 @@
 # UIFlow I18N
 Let's translate the blocks!
 
+[日本語](README_ja.md)](README_ja.md)
+
 ## For UIFlOW 1.x
 
 [here](./uiflow-1.x/README.md)
