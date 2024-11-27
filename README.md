@@ -28,6 +28,19 @@ Let's translate the blocks!
 7.	**Review and Merge:** We typically review and merge contributions during the week of a new version release. Please be patient during this process.
 8.	**Completion:** Congratulations! Your translation will be included in the next release. Thank you for your contribution!
 
+## Checking environment
+You can check your translation using environment below:
+
+### For UIFlow 1.0
+You use UIFlow Local at https://docs.m5stack.com/en/download .
+Except macOS, you can replace translation file, and can check it.
+
+[Not yet] More detail is ....
+
+### For UIFlow 2.0
+There is the developer mode for checking translation.
+Please contact to M5Stack UIFlow team.
+
 ## Contributors
 
 - Takeshi MUTOH  [GitHub](https://github.com/610t) [Twitter](https://twitter.com/610t)
