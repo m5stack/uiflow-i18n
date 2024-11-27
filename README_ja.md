@@ -3,12 +3,12 @@
 
 ## For UIFlOW 1.x
 
-[here](./uiflow-1.x/README.md)
+[こちら](./uiflow-1.x/README.md)
 
 
 ## For UIFlOW 2.x
 
-[here](./uiflow-2.x/README.md)
+[こちら](./uiflow-2.x/README.md)
 
 ## 翻訳ガイド:
 
@@ -33,7 +33,7 @@
 UIFlow Local( https://docs.m5stack.com/en/download )を使ってください。
 macOS以外では、翻訳ファイルを置き換えることが可能で、これを使ってチェックすることができます。
 
-詳細は、[Local UIFlowの自由研究]の「翻訳ファイルの入れかえ」をご覧ください。
+詳細は、[Local UIFlowの自由研究](https://scrapbox.io/M5S/Local_UIFlow%E3%81%AE%E8%87%AA%E7%94%B1%E7%A0%94%E7%A9%B6)の「翻訳ファイルの入れかえ」をご覧ください。
 
 ### UIFlow 2.0用
 翻訳ファイルを確認するために、開発者モードがあります。
