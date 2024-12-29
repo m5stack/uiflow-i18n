@@ -4738,7 +4738,7 @@
     "UNIT_HEART_GET_IR_MSG0": "%1 のIR LED値(return int)を取得",
     "UNIT_HEART_GET_RED_MSG0": "%1 の赤色LED値(return int)を取得",
     "UNIT_HEART_SET_MODE_MSG0": "%1 のモードを %2 に設定",
-    "UNIT_HEART_SET_LED_CURRENT_MSG0": "%1 のLED電流を %2 に設定",
+    "UNIT_HEART_SET_LED_CURRENT_MSG0": "%1 のLED電流を %2 ,IR電流を %3 に設定",
     "UNIT_HEART_SET_PULSE_WIDTH_MSG0": "%1 のパルス幅を %2 に設定",
     "UNIT_HEART_SET_SAMPLING_RATE_MSG0": "%1 のサンプリングレートを %2 に設定",
     "UNIT_ACSSR_INIT_MSG0": "Init %1 with mode %2",
