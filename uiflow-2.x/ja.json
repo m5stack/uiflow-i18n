@@ -5729,7 +5729,7 @@
     "OPENMV_IMAGE_DRAW_KEYPOINTS_MSG0": "%1 draw keypoints with %2 keypoints %3 color %4 size %5 thickness %6 fill %7",
     "OPENMV_IMAGE_FIND_FEATURES_MSG0": "%1 find features with %2 Haar Cascade object %3 threshold %4 scale %5 (return tuple)",
     "OPENMV_IMAGE_FIND_KEYPOINTS_MSG0": "%1 find keypoints with %2 region-of-interest %3 threshold %4 normalized %5 scale factor %6 max keypoints %7 corner detector %8",
-    "OPENMV_IMAGE_DRAW_STRING_MSG0": "%1 draw string with %2 x %3 y %4 text %5 color %6",
+    "OPENMV_IMAGE_DRAW_STRING_MSG0": "%1 draw string with %2 x %3 y %4 text %5 color %6 scale %7",
     "OPENMV_IMAGE_DRAW_RECTANGLE_MSG0": "%1 draw rectangle with %2 x %3 y %4 width %5 height %6 color %7 thickness %8 fill %9",
     "OPENMV_IMAGE_DRAW_LINE_MSG0": "%1 draw line with %2 x0 %3 y0 %4 x1 %5 y1 %6 color %7 thickness %8",
     "OPENMV_IMAGE_DRAW_CIRCLE_MSG0": "%1 draw circle with %2 x %3 y %4 radius %5 color %6 thickness %7 fill %8",
