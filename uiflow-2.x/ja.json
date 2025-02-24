@@ -1849,7 +1849,7 @@
     "TOUCH_GET_POINT_VAR_MSG0": "X",
     "TOUCH_GET_POINT_VAR_MSG1": "Y",
     "TOUCH_GET_POINT_VAR_MSG2": "の場所を取得",
-    "ALS_GET_LUS_MSG0": "get lux (return int)",
+    "ALS_GET_LUS_MSG0": "LUX値を取得(return int)",
     "WDT_INIT_MSG0": "WDTをタイムアウト",
     "WDT_INIT_MSG1": "ミリ秒で初期化",
     "WDT_FEED_MSG0": "WDTをフィード",
