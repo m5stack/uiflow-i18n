@@ -4341,15 +4341,13 @@
   "UNIT_JOYSTICK2_GET_Y_RAW": "%1 y軸のADC値",
   "UNIT_JOYSTICK2_GET_X_POSITION": "%1 x軸の位置",
   "UNIT_JOYSTICK2_GET_Y_POSITION": "%1 y軸の位置",
-  "UNIT_JOYSTICK2_GET_FIRMWARE_VERSION": "%1 ファームウエアバージ
-ョン(return int)",
+  "UNIT_JOYSTICK2_GET_FIRMWARE_VERSION": "%1 ファームウエアバージョン(return int)",
   "UNIT_JOYSTICK2_GET_AXIS_POSITION": "%1 位置(return tuple)",
   "UNIT_JOYSTICK2_SET_DEADZONE_ADC": "%1 ADC値のデッドゾーンをX %2 (0 ~ 32768), Y %3 (0 ~ 32768)に設定",
   "UNIT_JOYSTICK2_SET_DEADZONE_POSITION": "%1 位置のデッドゾーンをX %2 (0 ~ 4096), Y %3 (0 ~ 4096)に設定",
   "UNIT_JOYSTICK2_SET_AXIS_X_MAPPING": "%1 x軸のマッピングパラメータ %2 ADC値の負の最小値(0 ~ 65536) %3 ADC値の負の最大値(0 ~ 65536) %4 ADC値の正の最小値(0 ~ 65536) %5 ADC値の正の最大値(0 ~ 65536) %6",
   "UNIT_JOYSTICK2_SET_AXIS_Y_MAPPING": "%1 y軸のマッピングパラメータ %2 ADC値の負の最小値(0 ~ 65536) %3 ADC値の負の最大値(0 ~ 65536) %4 ADC値の正の最小値(0 ~ 65536) %5 ADC値の正の最大値(0 ~ 65536) %6",
-  "UNIT_JOYSTICK2_SET_LED_BRIGHTNESS": "%1 LEDの輝度を %2 % (0 ~ 1
-00)に設定",
+  "UNIT_JOYSTICK2_SET_LED_BRIGHTNESS": "%1 LEDの輝度を %2 % (0 ~ 100)に設定",
   "UNIT_TIMERPWR": "TimerPWR",
   "UNIT_TIMERPWR_INIT": "Init %1 I2C address %2",
   "UNIT_TIMERPWR_GET_FIRMWARE_VERSION": "Get %1 firmware version (return int)",
@@ -4523,7 +4521,7 @@
   "UNIT_BYTEBUTTON_GET_USER_MODE_LED_COLOR_MSG0": "%1 %2 番目のLEDの色をユーザーモードで取得",
   "UNIT_BYTEBUTTON_GET_SYS_MODE_LED_COLOR_MSG0": "%1 %2 番目のLED の色を %3 にシステムモードで取得",
   "UNIT_BYTEBUTTON_SET_USER_MODE_LED_COLOR_MSG0": "%1 %2 番目のLEDの色を %3 にユーザーモードで設定",
-  "UNIT_BYTEBUTTON_SET_SYS_MODE_LED_COLOR_MSG0": "%1 %2 番目のLEDの色を %3 に %4 の時にシステムモードで設定"
+  "UNIT_BYTEBUTTON_SET_SYS_MODE_LED_COLOR_MSG0": "%1 %2 番目のLEDの色を %3 に %4 の時にシステムモードで設定",
   "UNIT_BYTESWITCH": "ByteSwitch",
   "UNIT_BYTESWITCH_INIT_MSG0": "Init %1 I2C address %2 (0x08 ~ 0x77)",
   "UNIT_BYTESWITCH_GET_BYTE_SWITCH_STATUS_MSG0": "get %1 all switch status (return int)",
