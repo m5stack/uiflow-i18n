@@ -5080,5 +5080,14 @@
   "UNIT_STEP16_SAVE_RGB_CONFIG_MSG0": "Save %1 RGB config",
   "UNIT_STEP16_SET_I2C_ADDR_MSG0": "Set %1 I2C address %2 (0x08 ~ 0x77)",
   "UNIT_STEP16_GET_ADDR_MSG0": "get %1 I2C address",
-  "UNIT_STEP16_GET_FIRMWARE_VERSION_MSG0": "get %1 firmware version"
+  "UNIT_STEP16_GET_FIRMWARE_VERSION_MSG0": "get %1 firmware version",
+  "IOTDEVICE": "IoTDevice",
+  "IOT_SWITCHC6": "SwitchC6",
+  "IOT_SWITCHC6_INIT_MSG0": "Init SwitchC6 %1 target mac %2 wifi channel %3 verbose %4",
+  "IOT_SWITCHC6_SET_SWITCH_MSG0": "SwitchC6 set %1 onoff status to %2 timeout %3 ms",
+  "IOT_SWITCHC6_TOGGLE_MSG0": "SwitchC6 toggle %1 timeout %2 ms",
+  "IOT_SWITCHC6_GET_CAPACITOR_VOLTAGE_MSG0": "SwitchC6 get %1 capacitor voltage (return float) timeout %2 ms",
+  "IOT_SWITCHC6_GET_SWITCH_STATUS_MSG0": "SwitchC6 get %1 onoff status (return True or False) timeout %2 ms",
+  "IOT_SWITCHC6_GET_FIRMWARE_VERSION_MSG0": "SwitchC6 get %1 firmware version (return int) timeout %2 ms",
+  "IOT_SWITCHC6_EVENT_CALLBACK_MSG0": "When SwitchC6 trigger %1 %2 target mac %3 onoff %4 voltage %5"
 }
